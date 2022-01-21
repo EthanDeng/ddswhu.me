@@ -28,9 +28,6 @@ designed for developers by Xiaoying Riley.
 - SCSS source files included
 - Compatible with all modern browsers
 
-### Added
-
-- Google Analytics
 
 
 

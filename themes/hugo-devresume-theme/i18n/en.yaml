@@ -1,16 +1,16 @@
 - id: awards
-  translation: Awards
+  translation: 荣誉奖励
 - id: education
-  translation: Education
+  translation: 教育背景
 - id: experiences
-  translation: Work Experience
+  translation: 工作经历
 - id: information
-  translation: Information
+  translation: 其他信息
 - id: interests
-  translation: Interests
+  translation: 兴趣爱好
 - id: languages
-  translation: Languages
+  translation: 语言背景
 - id: projects
-  translation: Projects
+  translation: 项目经历
 - id: skills
-  translation: Skills
+  translation: 专业技能
